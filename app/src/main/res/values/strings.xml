@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KA00LearnKotlin1</string>
+    <string name="welcome_string">Welcome! This is a main display.</string>
+    <string name="label_bt_int">Integer Types</string>
+    <string name="label_bt_float">Floating Point Types</string>
+    <string name="label_bt_boolean">Boolean Types</string>
+    <string name="label_bt_char">Char Type</string>
+    <string name="label_bt_string">String type</string>
+</resources>
